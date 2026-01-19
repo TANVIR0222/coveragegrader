@@ -187,7 +187,7 @@ This application requires the following environment variables to function proper
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `NEXT_PUBLIC_API_BASE_URL` | Base URL for the backend API | `https://api.coveragegrader.com` |
+| `NEXT_PUBLIC_API_BASE_URL` | Base URL for the backend API | `---------------//--------------` |
 
 ### Example Configuration
 
